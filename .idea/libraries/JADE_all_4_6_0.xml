@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JADE-all-4.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JADE-all-4.6.0.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
